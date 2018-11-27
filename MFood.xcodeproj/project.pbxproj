@@ -19,6 +19,7 @@
 		3EB4B25421ACE63100B3792F /* UI_Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB4B25321ACE63100B3792F /* UI_Config.swift */; };
 		3EB4B25721ACE88B00B3792F /* RecommendationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB4B25621ACE88B00B3792F /* RecommendationViewController.swift */; };
 		3EB4B25921ACE8CF00B3792F /* PrivateCustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EB4B25821ACE8CF00B3792F /* PrivateCustomViewController.swift */; };
+		3EE7C46021AD3259001CD1D3 /* AddFoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EE7C45F21AD3259001CD1D3 /* AddFoodViewController.swift */; };
 		96FCC68A4E81CD12D28DE360 /* Pods_MFood.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D56D4AE5CCE4A5B9F28DB56 /* Pods_MFood.framework */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +59,7 @@
 		3EB4B25321ACE63100B3792F /* UI_Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI_Config.swift; sourceTree = "<group>"; };
 		3EB4B25621ACE88B00B3792F /* RecommendationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationViewController.swift; sourceTree = "<group>"; };
 		3EB4B25821ACE8CF00B3792F /* PrivateCustomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivateCustomViewController.swift; sourceTree = "<group>"; };
+		3EE7C45F21AD3259001CD1D3 /* AddFoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFoodViewController.swift; sourceTree = "<group>"; };
 		5B4ADCC2B57DB3380423AAA0 /* Pods-MFood.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MFood.release.xcconfig"; path = "Pods/Target Support Files/Pods-MFood/Pods-MFood.release.xcconfig"; sourceTree = "<group>"; };
 		9D56D4AE5CCE4A5B9F28DB56 /* Pods_MFood.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MFood.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0AFCB5782A7C497F15C823A /* Pods-MFood.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MFood.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MFood/Pods-MFood.debug.xcconfig"; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 			children = (
 				3EB4B25521ACE84400B3792F /* mainTab */,
 				3EB4B25021ACE5DF00B3792F /* RootController.swift */,
+				3EE7C45F21AD3259001CD1D3 /* AddFoodViewController.swift */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -394,6 +397,7 @@
 				3EB4B22221ACE30B00B3792F /* AppDelegate.swift in Sources */,
 				3EB4B25121ACE5DF00B3792F /* RootController.swift in Sources */,
 				3EB4B25921ACE8CF00B3792F /* PrivateCustomViewController.swift in Sources */,
+				3EE7C46021AD3259001CD1D3 /* AddFoodViewController.swift in Sources */,
 				3E749B7721AD20E200C21D31 /* PersonalViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

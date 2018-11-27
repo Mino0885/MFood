@@ -1,0 +1,87 @@
+PODS:
+  - Alamofire (4.8.0)
+  - BadgeSwift (5.0.1)
+  - CocoaAsyncSocket (7.6.3)
+  - CryptoSwift (0.13.0)
+  - GCDWebServer (3.4.2):
+    - GCDWebServer/Core (= 3.4.2)
+  - GCDWebServer/Core (3.4.2)
+  - GzipSwift (4.0.4)
+  - IQKeyboardManager (6.2.0)
+  - ReachabilitySwift (4.3.0)
+  - SnapKit (4.0.1)
+  - SocketRocket (0.5.1)
+  - SQLite.swift (0.11.4):
+    - SQLite.swift/standard (= 0.11.4)
+  - SQLite.swift/standard (0.11.4)
+  - SwiftProtobuf (1.0.0)
+  - SwiftyJSON (4.2.0)
+  - SwiftyRSA (1.5.0):
+    - SwiftyRSA/ObjC (= 1.5.0)
+  - SwiftyRSA/ObjC (1.5.0)
+  - TZImagePickerController (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - BadgeSwift (~> 5.0)
+  - CocoaAsyncSocket
+  - CryptoSwift
+  - GCDWebServer (~> 3.0)
+  - GzipSwift
+  - IQKeyboardManager
+  - ReachabilitySwift
+  - SnapKit (~> 4.0.0)
+  - SocketRocket
+  - SQLite.swift (= 0.11.4)
+  - SwiftProtobuf (from `https://github.com/apple/swift-protobuf.git`, tag `1.0.0`)
+  - SwiftyJSON (~> 4.0)
+  - SwiftyRSA
+  - TZImagePickerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BadgeSwift
+    - CocoaAsyncSocket
+    - CryptoSwift
+    - GCDWebServer
+    - GzipSwift
+    - IQKeyboardManager
+    - ReachabilitySwift
+    - SnapKit
+    - SocketRocket
+    - SQLite.swift
+    - SwiftyJSON
+    - SwiftyRSA
+    - TZImagePickerController
+
+EXTERNAL SOURCES:
+  SwiftProtobuf:
+    :git: https://github.com/apple/swift-protobuf.git
+    :tag: 1.0.0
+
+CHECKOUT OPTIONS:
+  SwiftProtobuf:
+    :git: https://github.com/apple/swift-protobuf.git
+    :tag: 1.0.0
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  BadgeSwift: 3defa56f504bfb46f2300122c4a565ec9e405c1e
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  CryptoSwift: 16e78bebf567bad1c87b2d58f6547f25b74c31aa
+  GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
+  GzipSwift: 1a5bc5f7827e09846b0635b5079f1224bc3b1c3a
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SQLite.swift: 3e3bee21da701b5b9f87c4a672cb54f233505692
+  SwiftProtobuf: 23dd0bb27da84212eae2ef769ae0fa378fe2a390
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwiftyRSA: 6e528fb1b1a87d5111c48081083b141d6d65f1cf
+  TZImagePickerController: c5d08f4f79ef3a4aa5af70c199009f59dac978a3
+
+PODFILE CHECKSUM: 9c2da372e99bbe6d5e66c87e5bfd1f7f68690acb
+
+COCOAPODS: 1.5.3

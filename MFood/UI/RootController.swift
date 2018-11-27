@@ -21,7 +21,7 @@ class RootController: UITabBarController {
         tmpTextView.resignFirstResponder()
         tmpTextView.removeFromSuperview()
         
-        self.view.backgroundColor = UIConfig.main_back_color
+        self.view.backgroundColor = UIColor.white
         self.delegate = self
         
         let recommendation = RecommendationViewController()
